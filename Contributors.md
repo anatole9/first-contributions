@@ -157,6 +157,7 @@
 -VidishaTindolia
 -Dev Kumar(https://github.com/techydev)
 - [Heidi Ran] (https://github.com/HDR128)
+- Anatole9
 - SH Park
 - [Luke EJH] (https://github.com/luke-ejh)
 - Woo Hyuk Chang
